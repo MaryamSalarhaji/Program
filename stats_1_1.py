@@ -1,5 +1,5 @@
 import random
-#This code eliminate input that are not number and are #strings
+#This code eliminates input that is not number and is strings
 while True:
     try:
         num=int(input("Please enter a number:"))
